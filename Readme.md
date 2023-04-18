@@ -11,7 +11,7 @@ This example demonstrates how to wrap a grid control in a callback panel and swi
 
 Follow the steps below to edit data in batch mode and insert new rows in edit form mode:
 
-1. Create the [Grid View](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) control and wrap it with a callback panel. Specify a column's [HeaderTemplate](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewColumn.HeaderTemplate) property and add a hyper link editor to the template to create a custom **New** button.
+1. Create the [Grid View](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) control and wrap it with a callback panel. Specify a column's [HeaderTemplate](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewColumn.HeaderTemplate) property and add a hyperlink editor to the template to create a custom **New** button.
 
     ```aspx
     <dx:ASPxCallbackPanel ID="ASPxCallbackPanel1" runat="server" ClientInstanceName="cp"
