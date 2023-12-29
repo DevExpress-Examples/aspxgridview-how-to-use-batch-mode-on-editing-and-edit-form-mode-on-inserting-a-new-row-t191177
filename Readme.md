@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to use batch mode to edit data and edit form mode to insert new rows
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t191177/)**
-<!-- run online end -->
 
 This example demonstrates how to wrap a grid control in a callback panel and switch the grid's edit mode on the panel's callback.
 
