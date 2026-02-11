@@ -91,7 +91,7 @@ Follow the steps below to edit data in batch mode and insert new rows in edit fo
 
 * [Edit Data in Grid](https://docs.devexpress.com/AspNet/3712/components/grid-view/concepts/edit-data)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-how-to-use-batch-mode-on-editing-and-edit-form-mode-on-inserting-a-new-row-t191177&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-how-to-use-batch-mode-on-editing-and-edit-form-mode-on-inserting-a-new-row-t191177&~~~was_helpful=no)
 
